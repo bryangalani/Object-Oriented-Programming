@@ -1,4 +1,4 @@
 # Basic
-* **Java 
+* Java 
 Constructor, Object, Class
  

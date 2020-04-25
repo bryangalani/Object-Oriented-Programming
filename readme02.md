@@ -10,7 +10,9 @@ Defined in package "default package".
 # Access Modifiers
 Defined by packages: "pacote01" and "pacote02". Theses packages contain 2 classes each, to show the behavior of the access modifiers, and when it can be accessed or not.
 
-* **Default (when don't specifying the modifier)**: Accessible for all classes from the same package.
-* **Private**: Can only be accessed by members of the class itself.
-* **Public**: Any class can access.
-* **Protected**: Only subclasses and classes from the same package can access.
+* **Default (when don't specifying the modifier)**: Accessible for all classes from the same package. (Allow override)
+* **Private**: Can only be accessed by members of the class itself. (Do not allow override)
+* **Public**: Any class can access. (Allow override)
+* **Protected**: Only subclasses and classes from the same package can access. (Allow override)
+
+

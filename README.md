@@ -1,4 +1,4 @@
-# Object-Oriented-Programming
+# Object-Oriented Programming
 Object Oriented Programming projects. The concepts and projects presented in this folder were developed during an online course provided by ITA (Instituto Tecnológico de Aeronáutica) about Object-Oriented Programming using JAVA.
 
 

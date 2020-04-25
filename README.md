@@ -10,6 +10,6 @@ Every subclass, first of all, call the constructor of the superclass, even if no
 
 
 # Cotent
-* **IMC**: Basics of Object-Oriented Programming -> Object, Class
+* **IMC**: Object, Class
 * **Carros**: Static method, Static Variable, HashMap, ArrayList
 * **Banco**: Access Modifiers, Basic of Inheritance (extend)

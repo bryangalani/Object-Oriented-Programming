@@ -1,0 +1,9 @@
+EVERYTHING in Java is an object. Therefore, they all derive from the Object class, which, in turn, has methods that will pass to all of its child classes. Among these methods is equals ().
+
+# Modifying Equals() and HashCode()
+
+* **HashCode**: HashCode is a JVM tool used to assemble the hash table correctly. In this project we count the number of letters that the code has and multiply the result by 8. With this, when inserting and searching for objects within a hashing table, this same mechanism will always be used so that the same result is always obtained.
+
+* **Equals**: The equals method is used for comparisons. The String class and the Wrapper classes override equals() to ensure that two objects of these types, with the same content, can be considered equal. When the purpose is to find out if two references are equal, the operator "==" should be used, as the bits of the variables will be compared. There are situations where we do not want one class to be considered, under any circumstances, identical to the other. For example, there is a laptop X that has the attributes Y. Just as there is a laptop Z that also has the attributes Y. For this case, we will have to override the equals() method, to ensure that they will not be equal.
+
+When performing a search in the hashing table using an object with the name Carlos, for example, a search will first be made for the slot containing names with the result 48 (Carlos = 6 letters, so 6 * 8 = 48) (8 was the number used in this project, when overriding the hashCode). Once the slot is found, the equals() method of each object inside the slot will be used to verify that the object inside is the same as the object we are looking for. If found, true will be returned to the object in question, as well as the value assigned to it, was found!

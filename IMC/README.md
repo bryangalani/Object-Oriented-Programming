@@ -1,6 +1,5 @@
 # Basic
 
-* Java 
-
-Constructor, Object, Class
- 
+* **Constructor**:
+* **Object**: 
+* **Class**:

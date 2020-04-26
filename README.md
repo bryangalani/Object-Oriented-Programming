@@ -13,3 +13,10 @@ Every subclass, first of all, call the constructor of the superclass, even if no
 * **IMC**: Object, Class
 * **Carros**: Static method, Static Variable, HashMap, ArrayList
 * **Banco**: Access Modifiers, Basic of Inheritance (extend)
+
+
+# Observation
+The codes was ran using netbeans IDE
+* **Import necessary libraries**: If typing a line in which the desired library is not imported press "Crtl+Shift+o" to automatically import.
+* ***Indenting the code**: Select all code "Ctrl+A" and press "Ctrl+I".
+

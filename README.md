@@ -19,5 +19,5 @@ Every subclass, first of all, call the constructor of the superclass, even if no
 # Observation
 The codes was ran using netbeans IDE
 * **Import necessary libraries**: If typing a line in which the desired library is not imported press "Crtl+Shift+o" to automatically import.
-* ***Indenting the code**: Select all code "Ctrl+A" and press "Ctrl+I".
+* **Indenting the code**: Select all code "Ctrl+A" and press "Ctrl+I".
 

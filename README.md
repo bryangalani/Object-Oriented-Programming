@@ -14,7 +14,7 @@ Every subclass, first of all, call the constructor of the superclass, even if no
 * **Pizzaria**: Static method, Static Variable, HashMap, ArrayList
 * **Banco**: Access Modifiers, Basic of Inheritance (extend)
 * **Produtos**: Modifying Equals() and HashCode 
-* **Carros**: Abstract Class, Abstract Methods, Inheritance,
+* **Carros**: Abstract Class, Abstract Methods, Inheritance, Super(Parameters), Method Override, HashMap
 
 # Observation
 The codes was ran using netbeans IDE

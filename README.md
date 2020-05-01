@@ -8,6 +8,8 @@ Every class has at least one constructor, even if not declared by the programmer
 
 Every subclass, first of all, call the constructor of the superclass, even if not declared by the programmer (by default the compilator add a "super(without parameter)" to call the constructor of the superclass).
 
+Java does not support multiple inheritance (public interface InterA extends InterB, InterC {} ). (C++ and Python accept this).
+
 
 # Content
 * **IMC**: Object, Class

@@ -17,7 +17,7 @@ Java does not support multiple inheritance (public interface InterA extends Inte
 * **Banco**: Access Modifiers, Basic of Inheritance
 * **Produtos**: Modifying Equals and HashCode 
 * **Carros**: Inheritance: Abstract Class, Abstract Methods, Super(Parameters), Method Override, HashMap
-* **Interface**: Use of Interface and its concepts.
+* **Interface**: Use of Interface and Polymorphism.
 
 # Observation
 The codes was ran using netbeans IDE

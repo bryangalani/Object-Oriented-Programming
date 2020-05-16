@@ -25,4 +25,4 @@ Every error lets a trace behind (in the console), showing the path that it ran t
 
 # Observation
 
-RuntimeException errors indicate normal errors, that obligatory does not need to be treated.
+RuntimeException errors indicate normal errors, that does not need to be treated obligatorily.

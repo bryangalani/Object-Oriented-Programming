@@ -19,7 +19,7 @@ Java does not support multiple inheritance (public interface InterA extends Inte
 * **Carros**: Inheritance: Abstract Class, Abstract Methods, Super(Parameters), Method Override, HashMap
 * **Interface**: Use of Interface and Polymorphism.
 * **Exception**: Error treatment, Exceptions, Try/Catch, Throws.
-* **FinalWork**: Final work, implements a little of everything.
+* **FinalWork**: Implements a little of everything.
 
 # Observation
 The codes was ran using netbeans IDE

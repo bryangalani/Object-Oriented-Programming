@@ -13,10 +13,10 @@ Java does not support multiple inheritance (public interface InterA extends Inte
 
 # Content
 * **IMC**: Object, Class
-* **Pizzaria**: Static method, Static Variable, HashMap, ArrayList
-* **Banco**: Access Modifiers, Basic of Inheritance
-* **Produtos**: Modifying Equals and HashCode 
-* **Carros**: Inheritance: Abstract Class, Abstract Methods, Super(Parameters), Method Override, HashMap
+* **Pizzaria**: Static method, Static Variable, HashMap, ArrayList.
+* **Banco**: Access Modifiers, Basic of Inheritance.
+* **Produtos**: Modifying Equals and HashCode.
+* **Carros**: Inheritance: Abstract Class, Abstract Methods, Super(Parameters), Method Override, HashMap, Use of Final.
 * **Interface**: Use of Interface and Polymorphism.
 * **Exception**: Error treatment, Exceptions, Try/Catch, Throws.
 * **FinalWork**: Implements a little of everything.
